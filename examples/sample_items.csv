@@ -1,0 +1,9 @@
+vendor_id,vendor_name,item_id,description,qty,unit_price,discount_pct,fee,deduction,tax
+V101,Prairie Rose Pottery,P001,Mug - blue glaze,4,18.00,0,0.50,0,2.16
+V101,Prairie Rose Pottery,P002,Serving bowl - large,1,45.00,10,0,0,3.60
+V202,Cedar Barn Candles,C010,Soy candle 8oz,6,14.50,0,0.50,0,1.74
+V202,Cedar Barn Candles,C011,Soy candle 16oz,2,22.00,0,0,0,2.64
+V303,Willow Creek Weaves,W005,Handwoven scarf,1,85.00,0,1.00,2.50,5.10
+V303,Willow Creek Weaves,W006,Table runner,2,30.00,5,0.50,0,2.40
+V404,Hilltop Honey,H001,Honey 12oz jar,5,12.00,0,0,0,0
+V404,Hilltop Honey,H002,Beeswax wrap set,2,26.00,0,0.50,0,1.04

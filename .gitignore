@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*_payout_report.csv
+*_settlement.csv
+.venv/
+.DS_Store

@@ -1,0 +1,5 @@
+vendor_id,vendor_name,item_id,description,qty,unit_price,discount_pct,fee,deduction,tax
+V900,Quilt Corner,Q100,Twin bed quilt,1,320.00,0,0,0,16.00
+V901,Simple Stitches,S001,Napkin set of 4,7,12.90,0,0.50,0,4.53
+V902,Tin Lantern Co,T002,Punched tin lantern,1,25.00,15,0.35,0,1.25
+V903,Five Keys Studio,K010,Keychain - leather,3,8.25,0,0,0.25,0.50

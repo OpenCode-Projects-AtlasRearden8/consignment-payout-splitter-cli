@@ -1,0 +1,7 @@
+{
+  "tiers": [
+    { "name": "booth", "rate_pct": 5, "min_net_sale": 0, "max_net_sale": 49.99 },
+    { "name": "standard", "rate_pct": 15, "min_net_sale": 50, "max_net_sale": 199.99 },
+    { "name": "premium", "rate_pct": 25, "min_net_sale": 200, "max_net_sale": null }
+  ]
+}
